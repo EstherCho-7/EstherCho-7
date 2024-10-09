@@ -28,7 +28,12 @@
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 - **DevOps**: 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+- **ETC**: NX11, ANSYS, Labview
+
+
 ## 학력
+
 | 입학년도 - 졸업년도 | 내용 |
 | :--: | :--: |
 | 2011.03 - 2013.06 | 메이쟝중학교(중국 소재) 재학 및 졸업 |
