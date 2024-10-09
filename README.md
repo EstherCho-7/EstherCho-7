@@ -1,5 +1,7 @@
 # EstherCho-7
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=Welcome%to%Esther's%page)
+
 # 소개
 기계시스템전공 후 Programming을 하고 있는 조하영입니다.
 # 학력
