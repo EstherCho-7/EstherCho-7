@@ -31,14 +31,37 @@
 - NX11, ANSYS, Labview
 
 ## 🌟 Key Projects
-- [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone) **2022.02 - 2022.09**
+- [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone) (캡스톤디자인 및 한성공학경진대회 참여, 장려상 수상) **2022.02 - 2022.09**
 - [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project) **2023.11 - 2023.12**
+- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
+- [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
+- [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
 
 ## 👩‍🎓 Education
-
+### For school
 | 입학년도 - 졸업년도 | 내용 |
 | :--: | :--: |
 | 2011.03 - 2013.06 | 메이쟝중학교(중국 소재) 재학 및 졸업 |
 | 2013.09 - 2016.05 | 메이쟝고등학교(중국 소재) 재학 및 졸업 |
 | 2017.03 - 2018.03 | 가천대학교 간호학과 재학 및 중퇴 |
 | 2019.03 - 2023.03 | 한성대학교 기계설계트랙, 기계자동화트랙 재학 및 졸업 |
+
+### For traning
+| 시작 - 수료 | 내용 |
+| :--: | :--: |
+| 2023.05 - 2023.06 | 2023년 우주활용과정 교육 연수 |
+| 2023.10 - 2023.12 | 2023년도 항공우주전문인력양성사업 항공ICT 설계 융합 엔지니어 양성 과정 |
+| 2024.07 - 2025.01.02 | playdata Data Engineering 부트캠프 32기 |
+
+## Certification
+### Language
+| 언어 | 시험 내용 | 성적 |
+| :--: | :-------: | :--: |
+| 영어 | TOEIC Speaking | AL(160) |
+| 중국어 | HSK 5级 | 198 |
+
+### Other
+- 정보처리기사, ing
+
+## Contact
+
