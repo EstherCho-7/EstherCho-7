@@ -64,4 +64,15 @@
 - 정보처리기사, ing
 
 ## 💬 Let's Connect
+### E-Mail
+estherchohy722@gmail.com
+### Mobile
+(+82) 10 - 7145 - 5783
+### Porfolio
+<a href="https://esther.web.app/" target="_blank"><img src="https://img.shields.io/badge/MyPage-650015?style=flat-square&logo=homepage&logoColor=white"></a>
+### Velog
 <a href="https://velog.io/@esthercho/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+### Linkedin
+<a href="https://www.linkedin.com/in/esther-cho-52b90b325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+### Instagram
+<a href="https://www.instagram.com/esther.cho_igo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
