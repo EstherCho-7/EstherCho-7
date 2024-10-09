@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20Esther's%20Git!&fontSize=70&fontColor=d570c8)
 
 # 🙋‍♀️ 소개
-- 기계시스템전공 후 Programming을 하고 있는 조하영입니다.
+- 기계설계 및 기계자동화트랙 졸업 후 Programming을 하고 있는 조하영입니다.
 - C와 Python을 이용한 Embedded 설계에 관심이 있습니다.
 - 또한 GNSS/GPS 등 위성항법 시스템 설계에 관심이 있습니다.
 
