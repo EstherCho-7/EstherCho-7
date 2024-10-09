@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20Esther's%20Git!&fontSize=70&fontColor=d570c8)
 
-# 소개
+# 🙋‍♀️ 소개
 - 기계시스템전공 후 Programming을 하고 있는 조하영입니다.
 - C와 Python을 이용한 Embedded 설계에 관심이 있습니다.
 - 또한 GNSS/GPS 등 위성항법 시스템 설계에 관심이 있습니다.
@@ -53,7 +53,7 @@
 | 2023.10 - 2023.12 | 2023년도 항공우주전문인력양성사업 항공ICT 설계 융합 엔지니어 양성 과정 |
 | 2024.07 - 2025.01.02 | playdata Data Engineering 부트캠프 32기 |
 
-## Certification
+## ✍ Certification
 ### Language
 | 언어 | 시험 내용 | 성적 |
 | :--: | :-------: | :--: |
@@ -62,6 +62,9 @@
 
 ### Other
 - 정보처리기사, ing
+
+## ❤  Git status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherCho-7&layout=donut-vertical)](https://github.com/EstherCho-7/github-readme-stats)
 
 ## 💬 Let's Connect
 ### E-Mail
