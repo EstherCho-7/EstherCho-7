@@ -1,6 +1,6 @@
 # EstherCho-7
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=_hexcode#171c66&height=300&section=header&text=Welcome%20to%20Esther's%20Git!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20Esther's%20Git!&fontSize=60)
 
 # 소개
 기계시스템전공 후 Programming을 하고 있는 조하영입니다.
