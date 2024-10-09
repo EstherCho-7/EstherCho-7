@@ -33,7 +33,7 @@
 - [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone)
 - [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project)
 
-## Education
+## 👩‍🎓Education
 
 | 입학년도 - 졸업년도 | 내용 |
 | :--: | :--: |
