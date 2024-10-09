@@ -65,6 +65,7 @@
 
 ## ❤  Git status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherCho-7&layout=donut-vertical)](https://github.com/EstherCho-7/github-readme-stats)
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherCho-7&hide=contribs,prs)
 
 ## 💬 Let's Connect
 ### E-Mail
