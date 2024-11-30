@@ -4,8 +4,8 @@
 
 # 🙋‍♀️ 소개
 - 기계설계 및 기계자동화트랙 졸업 후 Programming을 하고 있는 조하영입니다.
-- C와 Python을 이용한 Embedded 설계에 관심이 있습니다.
-- 또한 GNSS/GPS 등 위성항법 시스템 설계에 관심이 있습니다.
+- Java 및 SpringBoot, mybatis, JPA를 이용한 Back-end Engineering에 관심 있습니다.
+- python을 이용한 Data Engineering에 관심 있습니다.
 
 ## 🛠️ Tech Stack
 ### **Languages** 
@@ -31,14 +31,13 @@
 - NX11, ANSYS, Labview
 
 ## 🌟 Key Projects
-- [개발자 취업준비생을 위한 취업 정보 사이트 제작](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2024.01.06**
+- [개발자 취업준비생을 위한 취업 정보 제공 서비스 제작](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2025.01.06**
 - [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
 - [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
 - [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
-- [Kafka를 이용한 채팅 시스템 제작 with java](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
+- [Kafka를 이용한 채팅 시스템 제작 with Java](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
 - [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone) (캡스톤디자인 및 한성공학경진대회 참여, 장려상 수상) **2022.02 - 2022.09**
 - [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project) **2023.11 - 2023.12**
-
 
 ## 👩‍🎓 Education
 ### For school
