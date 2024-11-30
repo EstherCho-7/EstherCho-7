@@ -7,11 +7,18 @@
 - Java 및 SpringBoot, mybatis, JPA를 이용한 Back-end Engineering에 관심 있습니다.
 - python을 이용한 Data Engineering에 관심 있습니다.
 
+  ## 🌟 Key Projects
+- [개발자 취업준비생을 위한 취업 정보 제공 서비스 제작](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2025.01.06**
+- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
+- [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
+- [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
+- [Kafka를 이용한 채팅 시스템 제작 with Java](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
+- [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone) (캡스톤디자인 및 한성공학경진대회 참여, 장려상 수상) **2022.02 - 2022.09**
+- [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project) **2023.11 - 2023.12**
+
 ## 🛠️ Tech Stack
 ### **Languages** 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white">
-
-
 
 ### **Database** 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
@@ -48,16 +55,6 @@
 
 ### **ETC**
 <img src="https://img.shields.io/badge/NX11-143055?style=for-the-badge&logo=nx&logoColor=white"> <img src="https://img.shields.io/badge/ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white"> <img src="https://img.shields.io/badge/labview-FFDB00?style=for-the-badge&logo=labview&logoColor=white">
-
-
-## 🌟 Key Projects
-- [개발자 취업준비생을 위한 취업 정보 제공 서비스 제작](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2025.01.06**
-- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
-- [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
-- [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
-- [Kafka를 이용한 채팅 시스템 제작 with Java](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
-- [화재 감지 및 화재 진압을 위한 이동 로봇 설계 및 제작](https://github.com/EstherCho-7/project_capstone) (캡스톤디자인 및 한성공학경진대회 참여, 장려상 수상) **2022.02 - 2022.09**
-- [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project) **2023.11 - 2023.12**
 
 ## 👩‍🎓 Education
 ### For school
