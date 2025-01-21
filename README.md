@@ -52,6 +52,7 @@
 - [Kafka를 이용한 채팅 시스템 제작 with Java](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
 - [축구 팬들을 위한 방명록 제작](https://github.com/EstherCho-7/First-Guestbook-Project) **2023.11 - 2023.12**
 ------------------------------------------------------------------------------------------------------------------------
+ ## Other Projects
 - [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
 - [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
 - [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
