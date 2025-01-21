@@ -4,7 +4,7 @@
 
 # 🙋‍♀️ 소개
 - 기계설계 및 기계자동화트랙 졸업 후 Programming을 하고 있는 조하영입니다.
-- Java 및 SpringBoot, mybatis, JPA를 이용한 Back-end Engineering에 관심 있습니다.
+- Java 및 Javascript, SpringBoot, mybatis, JPA를 이용한 Back-end Engineering에 관심 있습니다.
 - python을 이용한 Data Engineering에 관심 있습니다.
 
 ## 🛠️ Tech Stack
