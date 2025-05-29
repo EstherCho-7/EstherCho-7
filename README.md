@@ -4,8 +4,8 @@
 
 # 🙋‍♀️ 소개
 - 기계설계 및 기계자동화트랙 졸업 후 Programming을 하고 있는 조하영입니다.
-- Java 및 Javascript, SpringBoot, mybatis, JPA를 이용한 Back-end Engineering에 관심 있습니다.
-- python을 이용한 Data Engineering에 관심 있습니다.
+- 사용자 중심 사고와 구조적 문제 해결을 바탕으로, 프로젝트 설계와 팀 조율을 리딩해 온 Junior PM 조하영입니다.
+- 기획·설계·실행을 아우르는 실전 경험과, 기술적 배경을 함께 갖춘 PM을 지향합니다.
 
 ## 🛠️ Tech Stack
 ### **Languages** 
@@ -16,7 +16,8 @@
 
 
 ### **Tools**
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Projects-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ### **Web Servers** 
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/nginx-F8DC75?style=for-the-badge&logo=nginx&logoColor=white">
